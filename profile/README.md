@@ -163,12 +163,12 @@ LGCNS-Final-PJT-Team5/
 | **이슬아** | **구영민** | **최진실** | **김민중** |
 | :------: |  :------: | :------: | :------: |
 | [<img src="https://avatars.githubusercontent.com/u/150000000?v=4" height=150 width=150> <br/> @SRASONY](https://github.com/SRASONY) | [<img src="https://avatars.githubusercontent.com/u/150000001?v=4" height=150 width=150> <br/> @rndudals](https://github.com/rndudals) | [<img src="https://avatars.githubusercontent.com/u/150000002?v=4" height=150 width=150> <br/> @jinsil296](https://github.com/jinsil296) | [<img src="https://avatars.githubusercontent.com/u/150000003?v=4" height=150 width=150> <br/> @minjooong](https://github.com/minjooong) |
-| **Team Leader** | **Backend Developer** | **Cloud Engineer** | **Frontend Developer** |
+| **Team Leader** | **Backend Developer** | **Frontend Developer** | **Backend Developer** |
 
 | **신예빈** | **구도희** | **황지민** | **류동현** |
 | :------: |  :------: | :------: | :------: |
 | [<img src="https://avatars.githubusercontent.com/u/91859242?v=4" height=150 width=150> <br/> @ShinYEB](https://github.com/ShinYEB) | [<img src="https://avatars.githubusercontent.com/u/150000005?v=4" height=150 width=150> <br/> @peachoe](https://github.com/peachoe) | [<img src="https://avatars.githubusercontent.com/u/150000006?v=4" height=150 width=150> <br/> @jiminh00](https://github.com/jiminh00) | [<img src="https://avatars.githubusercontent.com/u/150000007?v=4" height=150 width=150> <br/> @Ryu1216](https://github.com/Ryu1216) |
-| **UI/UX Designer** | **Data Analyst** | **ML Engineer** | **DevOps Engineer** |
+| **Backend Developer** | **Backend Developer** | **Cloud Engineer** | **Frontend Developer** |
 <table>
 <tr>
 <td align="center">
