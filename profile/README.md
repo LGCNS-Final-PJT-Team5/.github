@@ -116,8 +116,8 @@ Apache Flink 기반 실시간 이벤트 처리
 ### 🔧 마이크로서비스 구조
 ![Image](https://github.com/user-attachments/assets/5678f897-9ceb-41b4-b9ba-cc3c1896440d)
 
-| Service | Description | Tech Stack |
-|---------|-------------|------------|
+| Service | Description | Tech Stack | Repository | 
+|---------|-------------|------------|------------|
 | 🔐 **auth-service** | 사용자 인증 및 권한 관리 | Spring Security, JWT | https://github.com/LGCNS-Final-PJT-Team5/auth-service |
 | 👤 **user-service** | 사용자 정보 관리 | Spring Boot, JPA | https://github.com/LGCNS-Final-PJT-Team5/user-service |
 | 📊 **dashboard-service** | 대시보드 데이터 처리 | Spring Boot, Redis | https://github.com/LGCNS-Final-PJT-Team5/dashboard-service |
