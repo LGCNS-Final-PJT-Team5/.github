@@ -121,10 +121,10 @@ Apache Flink 기반 실시간 이벤트 처리
 | 🔐 **auth-service** | 사용자 인증 및 권한 관리 | Spring Security, JWT |
 | 👤 **user-service** | 사용자 정보 관리 | Spring Boot, JPA |
 | 📊 **dashboard-service** | 대시보드 데이터 처리 | Spring Boot, Redis |
-| 📈 **analysis-service** | 주행 데이터 분석 | Python, Pandas |
+| 📈 **analysis-service** | 주행 데이터 분석 | Spring Boot, DynamoDB |
 | 🎁 **reward-service** | 리워드 시스템 관리 | Spring Boot |
-| 🤖 **llm-service** | AI 피드백 생성 | Python, Gemini API |
-| 🤝 **agent-service** | AI 에이전트 관리 | Spring Boot |
+| 🤖 **llm-service** | AI 피드백 생성 | Spring Boot, Gemini API |
+| 🤝 **agent-service** | AI 에이전트 관리 | Python, Bedrock Agent |
 
 ---
 
