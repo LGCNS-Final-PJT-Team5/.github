@@ -1,7 +1,6 @@
 <div align="center">
 
-# 🚗 MODiVE
-
+![Image](https://github.com/user-attachments/assets/4219c8d7-eb8a-43a3-913e-3a49ff913a89)
 
 <p align="center">
   <b>클라우드 기반 차량 데이터 분석 플랫폼으로<br/>
