@@ -116,15 +116,15 @@ Apache Flink 기반 실시간 이벤트 처리
 ### 🔧 마이크로서비스 구조
 ![Image](https://github.com/user-attachments/assets/5678f897-9ceb-41b4-b9ba-cc3c1896440d)
 
-| Service | Description | Tech Stack | Repository | 
-|---------|-------------|------------|------------|
-| 🔐 **auth-service** | 사용자 인증 및 권한 관리 | Spring Security, JWT | https://github.com/LGCNS-Final-PJT-Team5/auth-service |
-| 👤 **user-service** | 사용자 정보 관리 | Spring Boot, JPA | https://github.com/LGCNS-Final-PJT-Team5/user-service |
-| 📊 **dashboard-service** | 대시보드 데이터 처리 | Spring Boot, Redis | https://github.com/LGCNS-Final-PJT-Team5/dashboard-service |
-| 📈 **analysis-service** | 주행 데이터 분석 | Spring Boot, DynamoDB | https://github.com/LGCNS-Final-PJT-Team5/analysis-service |
-| 🎁 **reward-service** | 리워드 시스템 관리 | Spring Boot | https://github.com/LGCNS-Final-PJT-Team5/reward-service |
-| 🤖 **llm-service** | AI 피드백 생성 | Spring Boot, Gemini API | https://github.com/LGCNS-Final-PJT-Team5/llm-service |
-| 🤝 **agent-service** | AI 에이전트 관리 | Python, Bedrock Agent | https://github.com/LGCNS-Final-PJT-Team5/agent-service |
+| Service | Description | Tech Stack | 
+|---------|-------------|------------|
+| [🔐 **auth-service**](https://github.com/LGCNS-Final-PJT-Team5/auth-service) | 사용자 인증 및 권한 관리 | Spring Security, JWT |
+| [👤 **user-service**](https://github.com/LGCNS-Final-PJT-Team5/user-service) | 사용자 정보 관리 | Spring Boot, JPA | 
+| [📊 **dashboard-service**](https://github.com/LGCNS-Final-PJT-Team5/dashboard-service) | 대시보드 데이터 처리 | Spring Boot, Redis | 
+| [📈 **analysis-service**](https://github.com/LGCNS-Final-PJT-Team5/analysis-service) | 주행 데이터 분석 | Spring Boot, DynamoDB | 
+| [🎁 **reward-service**](https://github.com/LGCNS-Final-PJT-Team5/reward-service) | 리워드 시스템 관리 | Spring Boot | 
+| [🤖 **llm-service**](https://github.com/LGCNS-Final-PJT-Team5/llm-service) | AI 피드백 생성 | Spring Boot, Gemini API | 
+| [🤝 **agent-service**](https://github.com/LGCNS-Final-PJT-Team5/agent-service) | AI 에이전트 관리 | Python, Bedrock Agent | 
 
 ---
 
