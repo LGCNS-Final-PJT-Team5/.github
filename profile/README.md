@@ -111,9 +111,10 @@ Apache Flink 기반 실시간 이벤트 처리
 ---
 
 ## 🏗 시스템 아키텍처
-
+![Image](https://github.com/user-attachments/assets/bb5fece9-0a6f-48d3-8b0d-96f334ded85c)
 
 ### 🔧 마이크로서비스 구조
+![Image](https://github.com/user-attachments/assets/6ae893c5-be2a-420a-83a3-d5454c69d4f2)
 
 | Service | Description | Tech Stack |
 |---------|-------------|------------|
